@@ -12,4 +12,4 @@ The "Resturnat Menu App" project was created using the Glide no code application
 ![homes app landing page](homes-app-landing-page.png)
 
 
-[See the Project⚡️]([https://stackblitz.com/edit/angular-zjg2rm](https://restaurant-menu-baraah.glide.page)https://restaurant-menu-baraah.glide.page)
+[Click to See the Project⚡️](https://restaurant-menu-baraah.glide.page)
